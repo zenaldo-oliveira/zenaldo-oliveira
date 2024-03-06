@@ -13,8 +13,11 @@
 <img  aling="left" width="40px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 <img  aling="left" width="70px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo"/>
 <img aling="left" width="50px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
-<p>Complementary Skills<p/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<p>✍Complementary Skills✍<p/>
+<img  aling="left" width="50px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="logo-linux"/>
+<img  aling="left" width="70px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali linux&logoColor=white" alt="kali-linux-logo"/>
+  
+<img aling="left" width="70px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="logo-typescripte"/>
 <div/>
 <br>
   
@@ -22,3 +25,4 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenaldo-oliveira&theme=blue-green"/>
+
