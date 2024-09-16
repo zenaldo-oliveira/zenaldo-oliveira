@@ -19,11 +19,5 @@
 <img  aling="left" width="70px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali linux&logoColor=white" alt="kali-linux-logo"/>
 <img aling="left" width="70px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="logo-postgresql" />
   
-<div/>
-<br>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenaldo-oliveira&show_icons=true&theme=blue-green)
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenaldo-oliveira&theme=blue-green"/>
 
